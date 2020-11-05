@@ -1,0 +1,36 @@
+p{
+    color: darkblue;
+}
+.li-tem{
+    color: cadetblue;
+    text-decoration: underline;
+    font-size: 14px;
+    list-style-type: circle;
+}
+h5{
+    font-family: monospace, SansSerif;
+    font-style: italic;
+    background-color: coral;
+}
+h1{
+    font-family: monospace, SansSerif;
+    text-align: center;
+    font-style: italic;
+    background-color: darkgoldenrod;
+}
+#Titre{
+    font-family: monospace, SansSerif;
+    text-align: center;
+    border: 1px solid red;
+    margin-top: 10px;
+    padding-top: 4px;
+    padding-bottom: 15px;
+    border-radius: 25px;
+    width: 100%;
+    height: 35px;
+}
+body{
+    background-image: url("Patiseri.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
